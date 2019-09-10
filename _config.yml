@@ -3,7 +3,7 @@ author: BaeJino
 email: your@email
 
 url: https://baealex.github.io
-baseurl: time-switch/
+baseurl: /time-switch
 
 plugins:
  - jekyll-feed
