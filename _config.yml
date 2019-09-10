@@ -1,0 +1,10 @@
+title: Time Switch
+author: BaeJino
+email: your@email
+
+url: https://baealex.github.io
+baseurl: time-switch/
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
