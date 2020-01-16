@@ -2,8 +2,10 @@ title: Time Switch
 author: BaeJino
 email: your@email
 
+# https://[URL][BASEURL]
+# https://baealex.github.io/time-switch-jekyll-theme
 url: https://baealex.github.io
-baseurl: /time-switch
+baseurl: /time-switch-jekyll-theme
 
 plugins:
  - jekyll-feed
