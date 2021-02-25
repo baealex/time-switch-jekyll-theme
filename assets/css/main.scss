@@ -92,17 +92,21 @@ article table {
 	overflow:auto;
 	width:100%;
 }
+
 article table th {
 	font-weight:600;
 }
+
 article table td,
 article table th {
     border:1px solid #dfe2e5;
     padding:6px 13px;
 }
+
 article table tr {
 	border-top:1px solid #c6cbd1;
 }
+
 article table tr:nth-child(2n) {
 	background-color:rgba(0,0,0,.05);
 }
@@ -121,7 +125,7 @@ footer p {
     text-align: center;
 }
 
-.nightmode {
+.dark {
     background: #333;
     color: #ddd;
 }
@@ -132,12 +136,15 @@ footer p {
         font-family: 'Noto Serif KR', serif;
         margin-top: 20px;
     }
+
     ul {
         list-style: none;
     }
+
     li {
         margin: 20px 0 20px 0;
     }
+
     a {
         color: #aaa;
         text-decoration: none;
